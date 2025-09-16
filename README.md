@@ -10,4 +10,4 @@ DSA Tracker helps me organize, track, and visualize my progress in Data Structur
 💡 Skills Demonstrated: Frontend Development, State Management, CRUD (if backend included)
 🔮 Future Enhancements: API integration for auto-fetching questions & analytics dashboard
 
-Analytics dashboard for advanced performance insights.<img width="937" height="419" alt="image" src="https://github.com/user-attachments/assets/e54850db-66b2-4d7f-9f27-562b5f994bb3" />
+Here is what frontend of signup process look like👇.<img width="937" height="419" alt="image" src="https://github.com/user-attachments/assets/e54850db-66b2-4d7f-9f27-562b5f994bb3" />
