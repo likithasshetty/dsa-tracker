@@ -11,4 +11,5 @@ DSA Tracker helps me organize, track, and visualize my progress in Data Structur
 🔮 Future Enhancements: API integration for auto-fetching questions & analytics dashboard
 
 Here is what frontend of signup and dashboard look like👇.<img width="937" height="419" alt="image" src="https://github.com/user-attachments/assets/e54850db-66b2-4d7f-9f27-562b5f994bb3" />
-<img width="1536" height="1024" alt="ChatGPT Image Sep 16, 2025, 12_56_44 PM" src="https://github.com/user-attachments/assets/22857be8-d544-4fef-9788-2fd5f243aa56" />
+![WhatsApp Image 2025-09-16 at 13 10 52_6899d88c](https://github.com/user-attachments/assets/545900c0-0b9f-4a86-9ac6-699ad72a926e)
+
